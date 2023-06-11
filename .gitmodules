@@ -1,0 +1,6 @@
+[submodule "esp-01"]
+	path = esp-01
+	url = git@gitlab.di.unimi.it:aceti-ceribelli/progetto-sistemi-embedded/esp-01.git
+[submodule "arduino-nano"]
+	path = arduino-nano
+	url = git@gitlab.di.unimi.it:aceti-ceribelli/progetto-sistemi-embedded/arduino-nano.git

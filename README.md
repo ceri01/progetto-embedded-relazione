@@ -1,0 +1,1 @@
+# Inseguitore solare
